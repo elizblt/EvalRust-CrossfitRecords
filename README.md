@@ -1,6 +1,6 @@
 # Crossfit Records 🏋️‍♂️
 
-Un projet Rust pour gérer un cache **LRU (Least Recently Used)** afin d'enregistrer et de suivre vos records de mouvements CrossFit. Ce projet a été créé dans le cadre d'une évaluation pour pratiquer et renforcer mes compétences en Rust.
+Un projet Rust pour gérer un cache **LRU (Least Recently Used)** afin d'enregistrer et de suivre vos records de mouvements CrossFit. 
 
 ---
 

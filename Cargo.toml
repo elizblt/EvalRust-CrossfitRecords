@@ -1,0 +1,10 @@
+[package]
+name = "crossfit_records"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "crossfit_records"
+path = "src/lib.rs"
